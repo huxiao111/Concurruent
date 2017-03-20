@@ -9,6 +9,7 @@ public class ShiYan {
             System.out.println("22222222222");
             System.out.println("hello");
             System.out.println("111111");
+            System.out.println("6666666");
             
     }
 
