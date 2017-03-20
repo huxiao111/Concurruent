@@ -7,6 +7,7 @@ public class ShiYan {
             m.Out1(5);
             m.Out1("haha", 5);
             
+            System.out.println("22222222222");
     }
 
 }
