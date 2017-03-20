@@ -6,8 +6,10 @@ public class ShiYan {
             Methods m = new Methods();
             m.Out1(5);
             m.Out1("haha", 5);
-            
             System.out.println("22222222222");
+            System.out.println("hello");
+            System.out.println("111111");
+            
     }
 
 }
